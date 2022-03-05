@@ -11,7 +11,7 @@ Build a model to detect lane lines in real-time. We will do this using the conce
 
 ## Results
 
-https://user-images.githubusercontent.com/77241761/156899188-23a4afe4-2bc6-404b-a047-dcb1f3075ffa.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77241761/156899304-08e49bb9-9dec-4bbc-84f2-6a7aca75fd15.gif)
 
 
 ## References
